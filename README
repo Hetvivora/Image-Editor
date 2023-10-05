@@ -1,0 +1,7 @@
+This is an image editor with various image editing functionality that allows you to crop, transform, adjust brightness and apply more such transformations over an image.
+This software system first allows the user to choose an image from your local computer.
+A menu bar on the top of the screen provides this functionality.
+The menu bar allows the user to open a new image and even save an edited image your computer.
+The user may apply various transformations over an image.
+The user may adjust image brightness and contrast.
+
